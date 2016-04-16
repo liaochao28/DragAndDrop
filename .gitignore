@@ -1,0 +1,10 @@
+
+# gulp modules
+
+node_modules/*
+gulpfile.js
+package.json
+
+source/*
+
+dist/*
