@@ -7,4 +7,6 @@ package.json
 
 source/*
 
-dist/*
+dist/mincss/*
+dist/minjs/*
+dist/minimg/*
